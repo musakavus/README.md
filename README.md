@@ -1,9 +1,18 @@
-# README.md
-The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
-Video about [GitHub Profile README](https://twitter.com/github/status/1294348292130836482?s=20)
+### Hello there! 👋 My name is Musa.
 
-Feel free to add your own or someone else's profile README if you find it super awesome! 
+I'm a computer Engineer and currently working at Güven Yazılım. Here's a glimpse of my skills and areas of interest:
 
-Don't forget to leave a if you find this repo useful ⭐
+- 💻 **Programming Languages**: Python, Django, Flask
+- 🌐 **Web Development**: HTML, CSS, JavaScript
+- ⚙️ **Software Development**: Git, Docker, Agile Methodologies
+- 🎨 **UI/UX Design**: Figma, Sketch, Adobe XD
 
-Thankyou🎆
+I'm currently working on a shop's websitesi using a specific technology/tool. You can find more information about my project on the following link:
+
+MusaShop](https://github.com/user/project)
+
+If you'd like to contribute to my project or get in touch on any other topic, feel free to email me or reach out to me on my social media accounts. Thank you!
+
+📫 How to reach me:
+- Email: musakavus@gmail.com
+- LinkedIn: linkedln.com/musakavus
